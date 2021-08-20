@@ -16,7 +16,7 @@
         },
         "resourceType": {
           "resourceType": true,
-          "name": false
+          "name": true
         },
         "citation": {
           "basicInformation": {
@@ -43,7 +43,8 @@
           "description": false,
           "periodName": false,
           "interval": false,
-          "duration": false
+          "duration": false,
+          "fiscalYear": false
         },
         "maintenance": false,
         "graphicOverview": false,
