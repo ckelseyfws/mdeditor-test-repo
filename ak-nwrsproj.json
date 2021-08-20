@@ -32,6 +32,9 @@
           "otherCitationDetails": false,
           "graphic": false
         },
+        "description": {
+          "shortAbstract": false
+        },
         "purpose": true,
         "supplementalInfo": false,
         "environmentDescription": false,
