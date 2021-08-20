@@ -21,7 +21,8 @@
         "citation": {
           "basicInformation": {
             "edition": false,
-            "presentationForm": false
+            "presentationForm": false,
+            "alternateTitle": false
           },
           "onlineResource": {
             "protocol": false,
@@ -43,8 +44,7 @@
           "description": false,
           "periodName": false,
           "interval": false,
-          "duration": false,
-          "fiscalYear": false
+          "duration": false
         },
         "maintenance": false,
         "graphicOverview": false,
