@@ -13,8 +13,8 @@
           "defaultLocale": false
         },
         "resourceType": {
-		  "resourceType": true,
-          "name": false
+		"resourceType": true,
+		"name": true
         },
         "citation": {
           "basicInformation": {
