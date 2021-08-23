@@ -22,7 +22,7 @@
           "basicInformation": {
             "edition": false,
             "presentationForm": false,
-            "alternateTitle": false
+			"alternateTitle": false
           },
           "onlineResource": {
             "protocol": false,
@@ -33,7 +33,7 @@
           "otherCitationDetails": false,
           "graphic": false
         },
-        "description": {
+		"description": {
           "shortAbstract": false
         },
         "purpose": true,
