@@ -368,7 +368,7 @@
       {
         "title": "Associated",
         "target": "record.show.edit.associated",
-        "tip": "Other resources with a defined relationship to the product. For example, link a dictionary to the product, or a product to a project."
+        "tip": "Other resources with a defined relationship to the product. For example, link a dictionary or project to the product."
       }
     ],
     "dictionary": [
