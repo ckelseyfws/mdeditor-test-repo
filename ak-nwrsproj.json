@@ -133,12 +133,12 @@
       {
         "title": "Keywords",
         "target": "record.show.edit.keywords",
-        "tip": "Terms used to describe the project.  ISO Topic Category is required for USFWS records."
+        "tip": "Terms used to describe the project. ISO Topic Category is required for USFWS records."
       },
       {
         "title": "Extent",
         "target": "record.show.edit.extent",
-        "tip": "Information describing the bounds of the project."
+        "tip": "Information describing the geographic bounds of the project."
       },
       {
         "title": "Taxonomy",
@@ -148,7 +148,7 @@
       {
         "title": "Associated",
         "target": "record.show.edit.associated",
-        "tip": "Other resources with a defined relationship to the project."
+        "tip": "Other resources with a defined relationship to the project. For example, link a product to the project."
       }
     ]
   }
