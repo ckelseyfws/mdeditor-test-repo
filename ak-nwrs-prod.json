@@ -346,11 +346,6 @@
         "tip": "Information describing the geographic bounds of the product."
       },
       {
-        "title": "Lineage",
-        "target": "record.show.edit.lineage",
-        "tip": "Information on the history of the product (e.g. source datasets, processing steps, etc.)."
-      },
-      {
         "title": "Taxonomy",
         "target": "record.show.edit.taxonomy",
         "tip": "Information on the taxa associated with the product."
@@ -369,6 +364,11 @@
         "title": "Associated",
         "target": "record.show.edit.associated",
         "tip": "Other resources with a defined relationship to the product. For example, link a dictionary or project to the product."
+      },
+      {
+        "title": "Dictionaries",
+        "target": "record.show.edit.dictionary",
+        "tip": "Data dictionaries associated with the product."
       }
     ],
     "dictionary": [
