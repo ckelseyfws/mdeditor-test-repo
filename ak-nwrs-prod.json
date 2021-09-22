@@ -81,34 +81,36 @@
         }
       },
       "lineage": {
-        "lineageReference": {
-          "basicInformation": {
-            "alternateTitle": false,
-            "presentationForm": false,
-	    "dates": {
-              "dateItem": {
+	"main": {
+          "citation": {
+            "basicInformation": {
+              "alternateTitle": false,
+              "presentationForm": false,
+	      "dates": {
+                "dateItem": {
+                "description": false
+                }
+	      }
+            },
+            "onlineResource": {
+              "description": false,
+              "protocol": false,
+              "applicationProfile": false,
+              "protocolRequest": false
+            },
+            "identifier": false,
+            "series": false,
+            "identifierSimple": {
+              "visible": true,
+              "authority": false,
+              "version": false,
               "description": false
-              }
-	    }
-          },
-          "onlineResource": {
-            "description": false,
-            "protocol": false,
-            "applicationProfile": false,
-            "protocolRequest": false
-          },
-          "identifier": false,
-          "series": false,
-          "identifierSimple": {
-            "visible": true,
-            "authority": false,
-            "version": false,
-            "description": false
-          },
-          "identifierShort": false,
-          "otherCitationDetails": false,
-          "graphic": false
-        },
+            },
+            "identifierShort": false,
+            "otherCitationDetails": false,
+            "graphic": false
+          }
+	}
       },
       "taxonomy": {
         "collection": {
