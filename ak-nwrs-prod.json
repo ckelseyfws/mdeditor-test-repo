@@ -153,7 +153,6 @@
       "citation": {
         "basicInformation": {
           "alternateTitle": false,
-          "edition": false,
           "presentationForm": false
         },
         "onlineResource": {
@@ -193,11 +192,10 @@
         "keys": {},
         "index": {},
         "entityReference": {
-          "basicInformation": {},
-          "title": {},
-          "alternateTitle": false,
-          "date": {},
-          "edition": {},
+          "basicInformation": {
+	    "alternateTitle": false,
+	    "presentationForm": false
+	  },
           "presentationForm": {},
           "responsibleParty": {},
           "onlineResource": {
@@ -245,13 +243,12 @@
             "maxValue": false
           },
           "valueRange": {},
-          "timePeriod": {},
+          "timePeriod": false,
           "attributeReference": {
-            "basicInformation": {},
-            "title": {},
-            "alternateTitle": false,
-            "date": {},
-            "edition": {},
+            "basicInformation": {
+	      "alternateTitle": false,
+	      "presentationForm": false
+	    },
             "presentationForm": {},
             "responsibleParty": {},
             "onlineResource": {
@@ -291,10 +288,10 @@
             "version": {},
             "description": {},
             "authority": {
-              "basicInformation": {},
-              "title": {},
-              "alternateTitle": {},
-              "date": {},
+              "basicInformation": {
+	        "alternateTitle": false,
+		"presentationForm": false
+	      },
               "responsibleParty": {},
               "onlineResource": {
 	        "protocol": false,
@@ -329,8 +326,7 @@
         "domainReference": {
           "basicInformation": {
             "alternateTitle": false,
-            "edition": false,
-            "presentationForm": false
+	    "presentationForm": false
           },
           "onlineResource": {
             "description": {},
