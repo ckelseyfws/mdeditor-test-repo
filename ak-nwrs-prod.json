@@ -80,38 +80,147 @@
           "containsData": false
         }
       },
-      "lineage": {
-	"main": {
-          "citation": {
+	  "lineage": {
+        "statement": {},
+        "processStep": {
+          "description": {}
+        },
+        "source": {
+          "description": {},
+          "sourceId": {},
+          "scope": {},
+          "sourceCitation": {
             "basicInformation": {
+              "title": {},
               "alternateTitle": false,
-              "presentationForm": false,
-	      "dates": {
+              "dates": {
                 "dateItem": {
-                "description": false
+                  "date": {},
+                  "dateType": {},
+                  "description": false
                 }
-	      }
+              }
+            },
+            "responsibleParty": {
+              "role": {},
+              "contacts": {}
             },
             "onlineResource": {
-              "description": false,
+			  "name": {},
+              "url": {},
               "protocol": false,
+              "description": {},
+              "onlineFunction": {},
+              "applicationProfile": false,
+              "protocolRequest": false
+			},
+            "identifier": false,
+            "identifierSimple": {
+		      "visible": true,
+		      "authority": false,
+  	          "version": false,
+              "description": false
+            },
+            "identifierShort": false
+          },
+          "metadataCitation": {
+            "basicInformation": {
+              "title": {},
+              "alternateTitle": false,
+              "dates": {
+                "dateItem": {
+                  "date": {},
+                  "dateType": {},
+                  "description": false
+                }
+              }
+            },
+            "responsibleParty": {
+              "role": {},
+              "contacts": {}
+            },
+            "onlineResource": {
+              "name": {},
+              "url": {},
+              "protocol": false,
+              "description": {},
+              "onlineFunction": {},
               "applicationProfile": false,
               "protocolRequest": false
             },
             "identifier": false,
-            "series": false,
             "identifierSimple": {
               "visible": true,
-              "authority": false,
               "version": false,
-              "description": false
+              "description": false,
+              "authority": false
             },
-            "identifierShort": false,
-            "otherCitationDetails": false,
-            "graphic": false
+            "identifierShort": false
+          },
+          "referenceSystem": {
+            "referenceSystemType": {},
+            "referenceSystemIdentifier": {
+              "visible": true,,
+              "version": false,
+              "description": false,
+              "authority": false
+            }
+          },
+          "spatialResolution": {
+            "scaleFactor": {},
+            "levelOfDetail": {},
+            "measure": {
+              "type": {},
+              "value": {},
+              "units": {}
+            }
           }
-	}
-      },
+        },
+        "citation": {
+          "basicInformation": {
+            "title": {},
+            "alternateTitle": false,
+            "dates": {
+              "dateItem": {
+                "date": {},
+                "dateType": {},
+                "description": false
+              }
+            },
+            "edition": {},
+            "presentationForm": {}
+          },
+          "responsibleParty": {
+            "role": {},
+            "contacts": {}
+          },
+          "onlineResource": {
+            "name": {},
+            "url": {},
+            "protocol": false,
+            "description": {},
+            "onlineFunction": {},
+            "applicationProfile": false,
+            "protocolRequest": false
+          },
+          "identifier": false,
+          "identifierSimple": {
+		    "visible": true,
+		    "authority": false,
+  	        "version": false,
+            "description": false
+		  },
+          "identifierShort": false,
+          "series": {
+            "name": {},
+            "issue": {},
+            "page": {}
+          },
+          "otherCitationDetails": false,
+          "graphic": false
+        },
+        "scope": {}
+	  },
       "taxonomy": {
         "collection": {
           "taxonomicSystem": {
@@ -385,7 +494,7 @@
         "information": {
           "commonName": false
         },
-	"identifier": false,
+		"identifier": false,
         "domainReference": {
           "basicInformation": {
             "alternateTitle": false,
