@@ -1,10 +1,10 @@
 {
-  "identifier": "ak-nwrs-prod",
+  "identifier": "ak-nwrs-prod-test",
   "namespace": "gov.fws.profile",
   "alternateId": ["ak-nwrs-prod"],
   "title": "AK Refuges Product",
   "description": "A product (e.g. report, tabular dataset, etc.) associated with a project within AK NWRS.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "components": {
     "record": {
       "main": {
