@@ -80,6 +80,36 @@
           "containsData": false
         }
       },
+      "lineage": {
+        "citation": {
+          "basicInformation": {
+            "alternateTitle": false,
+            "presentationForm": false,
+		    "dates": {
+              "dateItem": {
+              "description": false
+              }
+		    }
+          },
+          "onlineResource": {
+            "description": false,
+            "protocol": false,
+            "applicationProfile": false,
+            "protocolRequest": false
+          },
+          "identifier": false,
+          "series": false,
+          "identifierSimple": {
+            "visible": true,
+            "authority": false,
+            "version": false,
+            "description": false
+          },
+          "identifierShort": false,
+          "otherCitationDetails": false,
+          "graphic": false
+        },
+      },
       "taxonomy": {
         "collection": {
           "taxonomicSystem": {
@@ -353,6 +383,7 @@
         "information": {
           "commonName": false
         },
+	"identifier": false,
         "domainReference": {
           "basicInformation": {
             "alternateTitle": false,
