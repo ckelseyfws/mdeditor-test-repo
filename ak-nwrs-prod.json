@@ -81,15 +81,15 @@
         }
       },
       "lineage": {
-        "citation": {
+        "lineageReference": {
           "basicInformation": {
             "alternateTitle": false,
             "presentationForm": false,
-		    "dates": {
+	    "dates": {
               "dateItem": {
               "description": false
               }
-		    }
+	    }
           },
           "onlineResource": {
             "description": false,
