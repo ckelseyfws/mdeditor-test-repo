@@ -157,8 +157,10 @@
           "presentationForm": false
         },
         "onlineResource": {
-          "description": false,
-          "protocol": false
+	  "protocol": false,
+          "description": {},
+          "applicationProfile": false,
+          "protocolRequest": false
         },
         "identifier": false,
         "series": false,
@@ -194,7 +196,12 @@
           "edition": {},
           "presentationForm": {},
           "responsibleParty": {},
-          "onlineResource": {},
+          "onlineResource": {
+	    "protocol": false,
+            "description": {},
+            "applicationProfile": false,
+            "protocolRequest": false
+          },
           "identifier": {},
           "identifierSimple": {},
           "identifierShort": {},
@@ -237,7 +244,12 @@
             "edition": {},
             "presentationForm": {},
             "responsibleParty": {},
-            "onlineResource": {},
+            "onlineResource": {
+	      "protocol": false,
+              "description": {},
+              "applicationProfile": false,
+              "protocolRequest": false
+            },
             "identifier": {},
             "identifierSimple": {},
             "identifierShort": {},
@@ -252,7 +264,7 @@
         },
         "citation": {
           "onlineResource": {
-            "protocol": {},
+            "protocol": false,
             "description": {},
             "applicationProfile": false,
             "protocolRequest": false
@@ -268,7 +280,12 @@
               "alternateTitle": {},
               "date": {},
               "responsibleParty": {},
-              "onlineResource": {},
+              "onlineResource": {
+	        "protocol": false,
+                "description": {},
+                "applicationProfile": false,
+                "protocolRequest": false
+	      },
               "identifier": {},
               "identifierSimple": {},
               "identifierShort": {}
@@ -287,8 +304,10 @@
             "presentationForm": false
           },
           "onlineResource": {
-            "description": false,
-            "protocol": false
+            "description": {},
+            "protocol": false,
+	    "applicationProfile": false,
+	    "protocolRequest": false
           },
           "identifier": false,
           "series": false,
