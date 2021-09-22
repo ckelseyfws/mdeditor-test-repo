@@ -174,11 +174,11 @@
       },
       "entity": {
         "information": {},
-        "identifier": {},
+        "identifier": false,
         "codeName": {},
         "definition": {},
-        "commonName": {},
-        "alias": {},
+        "commonName": false,
+        "alias": false,
         "structure": {
           "fieldSeparatorCharacter": {},
           "numberOfHeaderLines": {},
@@ -189,7 +189,7 @@
         "entityReference": {
           "basicInformation": {},
           "title": {},
-          "alternateTitle": {},
+          "alternateTitle": false,
           "date": {},
           "edition": {},
           "presentationForm": {},
@@ -203,8 +203,8 @@
             "issue": {},
             "page": {}
           },
-          "otherCitationDetails": {},
-          "graphicOverview": {}
+          "otherCitationDetails": false,
+          "graphicOverview": false
         },
         "attribute": {
           "name": {},
@@ -216,23 +216,23 @@
             "definition": {},
             "dataType": {},
             "allowNull": {},
-            "commonName": {},
+            "commonName": false,
             "domain": {},
-            "alias": {},
+            "alias": false,
             "units": {},
             "unitsResolution": {},
             "caseSensitive": {},
             "fieldWidth": {},
             "missingValue": {},
-            "minValue": {},
-            "maxValue": {}
+            "minValue": false,
+            "maxValue": false
           },
           "valueRange": {},
           "timePeriod": {},
           "attributeReference": {
             "basicInformation": {},
             "title": {},
-            "alternateTitle": {},
+            "alternateTitle": false,
             "date": {},
             "edition": {},
             "presentationForm": {},
@@ -246,11 +246,17 @@
               "issue": {},
               "page": {}
             },
-            "otherCitationDetails": {},
-            "graphicOverview": {}
+            "otherCitationDetails": false,
+            "graphicOverview": false
           }
         },
         "citation": {
+          "onlineResource": {
+            "protocol": {},
+            "description": {},
+            "applicationProfile": false,
+            "protocolRequest": false
+          },
           "identifier": {
             "identifier": {},
             "namespace": {},
@@ -297,28 +303,7 @@
           "graphic": false
         },
         "domainItem": {
-          "reference": {
-            "basicInformation": {
-              "alternateTitle": false,
-              "edition": false,
-              "presentationForm": false
-            },
-            "onlineResource": {
-              "description": false,
-              "protocol": false
-            },
-            "identifier": false,
-            "series": false,
-            "identifierSimple": {
-              "visible": true,
-              "authority": false,
-              "version": false,
-              "description": false
-            },
-            "identifierShort": false,
-            "otherCitationDetails": false,
-            "graphic": false
-          }
+          "reference": false
         }
       }
     }
@@ -351,6 +336,11 @@
         "tip": "Information on the taxa associated with the product."
       },
       {
+        "title": "Lineage",
+        "target": "record.show.edit.lineage",
+        "tip": "Information on the history of the product (e.g., source data)."
+      },
+      {
         "title": "Distribution",
         "target": "record.show.edit.distribution",
         "tip": "Information about obtaining the product."
@@ -363,7 +353,7 @@
       {
         "title": "Associated",
         "target": "record.show.edit.associated",
-        "tip": "Other resources with a defined relationship to the product. For example, link a dictionary or project to the product."
+        "tip": "Other resources with a defined relationship to the product. For example, link a project to the product."
       },
       {
         "title": "Dictionaries",
