@@ -19,7 +19,11 @@
         "citation": {
           "basicInformation": {
             "edition": false,
-            "presentationForm": false
+            "presentationForm": false,
+	    "dates": {
+              "dateItem": {
+              "description": false
+            }
           },
           "onlineResource": {
             "protocol": false,
@@ -129,14 +133,18 @@
           "basicInformation": {
             "alternateTitle": false,
             "edition": false,
-            "presentationForm": false
+            "presentationForm": false,
+	    "dates": {
+              "dateItem": {
+              "description": false
+            }
           },
           "onlineResource": false,
           "identifierSimple": false,
           "series": false,
           "otherCitationDetails": false,
           "graphic": false,
-		  "graphicOverview": false
+          "graphicOverview": false
         },
         "metadataCitation": false
       }
@@ -153,7 +161,11 @@
       "citation": {
         "basicInformation": {
           "alternateTitle": false,
-          "presentationForm": false
+          "presentationForm": false,
+	  "dates": {
+            "dateItem": {
+            "description": false
+          }
         },
         "onlineResource": {
 	  "protocol": false,
@@ -194,7 +206,11 @@
         "entityReference": {
           "basicInformation": {
 	    "alternateTitle": false,
-	    "presentationForm": false
+	    "presentationForm": false,
+	    "dates": {
+              "dateItem": {
+              "description": false
+            }
 	  },
           "presentationForm": {},
           "responsibleParty": {},
@@ -247,7 +263,11 @@
           "attributeReference": {
             "basicInformation": {
 	      "alternateTitle": false,
-	      "presentationForm": false
+	      "presentationForm": false,
+	      "dates": {
+                "dateItem": {
+                "description": false
+                }
 	    },
             "presentationForm": {},
             "responsibleParty": {},
@@ -311,7 +331,7 @@
                 "name": {},
                 "issue": {},
                 "page": {}
-              },
+                },
               "otherCitationDetails": false,
               "graphicOverview": false,
 	      "graphic": false
@@ -326,7 +346,11 @@
         "domainReference": {
           "basicInformation": {
             "alternateTitle": false,
-	    "presentationForm": false
+	    "presentationForm": false,
+	    "dates": {
+               "dateItem": {
+               "description": false
+              }
           },
           "onlineResource": {
             "description": {},
@@ -346,7 +370,7 @@
             "name": {},
             "issue": {},
             "page": {}
-          },
+            },
           "otherCitationDetails": false,
           "graphic": false
         },
