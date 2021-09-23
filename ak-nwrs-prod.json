@@ -1,5 +1,5 @@
 {
-  "identifier": "ak-nwrs-prod-test",
+  "identifier": "ak-nwrs-prod",
   "namespace": "gov.fws.profile",
   "alternateId": ["ak-nwrs-prod"],
   "title": "AK Refuges Product",
@@ -13,18 +13,18 @@
           "defaultLocale": false
         },
         "resourceType": {
-		"resourceType": true,
-		"name": true
+        "resourceType": true,
+        "name": true
         },
         "citation": {
           "basicInformation": {
             "edition": false,
             "presentationForm": false,
-			"dates": {
+            "dates": {
               "dateItem": {
               "description": false
-			  }
-			}
+              }
+            }
           },
           "onlineResource": {
             "protocol": false,
@@ -80,7 +80,7 @@
           "containsData": false
         }
       },
-	  "lineage": {
+      "lineage": {
         "source": {
           "description": {},
           "sourceId": {},
@@ -98,19 +98,19 @@
               }
             },
             "onlineResource": {
-			  "name": {},
+              "name": {},
               "url": {},
               "protocol": false,
               "description": {},
               "onlineFunction": {},
               "applicationProfile": false,
               "protocolRequest": false
-			},
+            },
             "identifier": false,
             "identifierSimple": {
-		      "visible": true,
-		      "authority": false,
-  	          "version": false,
+              "visible": true,
+              "authority": false,
+                "version": false,
               "description": false
             },
             "identifierShort": false
@@ -175,17 +175,17 @@
           },
           "identifier": false,
           "identifierSimple": {
-		    "visible": true,
-		    "authority": false,
-  	        "version": false,
+            "visible": true,
+            "authority": false,
+              "version": false,
             "description": false
-		  },
+          },
           "identifierShort": false,
           "series": false,
           "otherCitationDetails": false,
           "graphic": false
         }
-	  },
+      },
       "taxonomy": {
         "collection": {
           "taxonomicSystem": {
@@ -241,11 +241,11 @@
             "alternateTitle": false,
             "edition": false,
             "presentationForm": false,
-			"dates": {
+            "dates": {
               "dateItem": {
               "description": false
               }
-			}
+            }
           },
           "onlineResource": false,
           "identifierSimple": false,
@@ -270,14 +270,15 @@
         "basicInformation": {
           "alternateTitle": false,
           "presentationForm": false,
-		  "dates": {
+          "dates": {
             "dateItem": {
             "description": false
             }
-		  }
+          },
+          "edition": false
         },
         "onlineResource": {
-	    "protocol": false,
+        "protocol": false,
           "description": {},
           "applicationProfile": false,
           "protocolRequest": false
@@ -290,7 +291,7 @@
           "description": false
         },
         "identifierShort": false,
-		"series": false,
+        "series": false,
         "otherCitationDetails": false,
         "graphic": false
       },
@@ -348,21 +349,21 @@
             "description": {},
             "authority": {
               "basicInformation": {
-	            "alternateTitle": false,
-		        "presentationForm": false,
-			    "dates": {
+                "alternateTitle": false,
+                "presentationForm": false,
+                "dates": {
                   "dateItem": {
                   "description": false
                   }
-		        }
-	          },
+                }
+              },
               "responsibleParty": {},
               "onlineResource": {
-	            "protocol": false,
+                "protocol": false,
                 "description": {},
                 "applicationProfile": false,
                 "protocolRequest": false
-	          },
+              },
               "identifier": false,
               "identifierSimple": {
                 "visible": true,
@@ -371,10 +372,10 @@
                 "description": false
               },
               "identifierShort": false,
-	          "series": false,
+              "series": false,
               "otherCitationDetails": false,
               "graphicOverview": false,
-	          "graphic": false
+              "graphic": false
             }
           }
         }
@@ -383,35 +384,8 @@
         "information": {
           "commonName": false
         },
-		"identifier": false,
-        "domainReference": {
-          "basicInformation": {
-            "alternateTitle": false,
-	        "presentationForm": false,
-	        "dates": {
-               "dateItem": {
-               "description": false
-              }
-			}
-          },
-          "onlineResource": {
-            "description": {},
-            "protocol": false,
-	        "applicationProfile": false,
-	        "protocolRequest": false
-          },
-          "identifier": false,
-          "identifierSimple": {
-	        "visible": true,
-	        "authority": false,
-	        "version": false,
-	        "description": false
-	      },
-          "identifierShort": false,
-          "series": false,
-          "otherCitationDetails": false,
-          "graphic": false
-        },
+        "identifier": false,
+        "domainReference": false,
         "domainItem": {
           "reference": false
         }
