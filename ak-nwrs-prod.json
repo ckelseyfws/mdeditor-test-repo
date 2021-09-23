@@ -422,7 +422,7 @@
       {
         "title": "Lineage",
         "target": "record.show.edit.lineage",
-        "tip": "Information on the history of the product (e.g., source data)."
+        "tip": "Information on the history of the product (e.g., source data, QA/QC)."
       },
       {
         "title": "Distribution",
