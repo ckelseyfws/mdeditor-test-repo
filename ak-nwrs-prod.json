@@ -1,5 +1,5 @@
 {
-  "identifier": "ak-nwrs-prod",
+  "identifier": "ak-nwrs-prod-test",
   "namespace": "gov.fws.profile",
   "alternateId": ["ak-nwrs-prod"],
   "title": "AK Refuges Product",
