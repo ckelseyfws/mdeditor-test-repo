@@ -81,10 +81,6 @@
         }
       },
 	  "lineage": {
-        "statement": {},
-        "processStep": {
-          "description": {}
-        },
         "source": {
           "description": {},
           "sourceId": {},
@@ -100,10 +96,6 @@
                   "description": false
                 }
               }
-            },
-            "responsibleParty": {
-              "role": {},
-              "contacts": {}
             },
             "onlineResource": {
 			  "name": {},
@@ -135,10 +127,6 @@
                 }
               }
             },
-            "responsibleParty": {
-              "role": {},
-              "contacts": {}
-            },
             "onlineResource": {
               "name": {},
               "url": {},
@@ -156,24 +144,6 @@
               "authority": false
             },
             "identifierShort": false
-          },
-          "referenceSystem": {
-            "referenceSystemType": {},
-            "referenceSystemIdentifier": {
-              "visible": true,,
-              "version": false,
-              "description": false,
-              "authority": false
-            }
-          },
-          "spatialResolution": {
-            "scaleFactor": {},
-            "levelOfDetail": {},
-            "measure": {
-              "type": {},
-              "value": {},
-              "units": {}
-            }
           }
         },
         "citation": {
@@ -218,8 +188,7 @@
           },
           "otherCitationDetails": false,
           "graphic": false
-        },
-        "scope": {}
+        }
 	  },
       "taxonomy": {
         "collection": {
