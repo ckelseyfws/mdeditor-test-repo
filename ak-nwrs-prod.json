@@ -157,8 +157,8 @@
                 "description": false
               }
             },
-            "edition": {},
-            "presentationForm": {}
+            "edition": false,
+            "presentationForm": false
           },
           "responsibleParty": {
             "role": {},
@@ -181,11 +181,7 @@
             "description": false
 		  },
           "identifierShort": false,
-          "series": {
-            "name": {},
-            "issue": {},
-            "page": {}
-          },
+          "series": false,
           "otherCitationDetails": false,
           "graphic": false
         }
@@ -294,11 +290,7 @@
           "description": false
         },
         "identifierShort": false,
-		"series": {
-          "name": {},
-          "issue": {},
-          "page": {}
-        },
+		"series": false,
         "otherCitationDetails": false,
         "graphic": false
       },
@@ -316,41 +308,7 @@
         },
         "keys": {},
         "index": {},
-        "entityReference": {
-          "basicInformation": {
-			"alternateTitle": false,
-			"presentationForm": false,
-			"dates": {
-			  "dateItem": {
-			  "description": false
-			  }
-			}
-	      },
-          "presentationForm": {},
-          "responsibleParty": {},
-          "onlineResource": {
-	        "protocol": false,
-            "description": {},
-            "applicationProfile": false,
-            "protocolRequest": false
-          },
-          "identifier": false,
-          "identifierSimple": {
-            "visible": true,
-            "authority": false,
-            "version": false,
-            "description": false
-          },
-          "identifierShort": false,
-          "series": {
-            "name": {},
-            "issue": {},
-            "page": {}
-          },
-          "otherCitationDetails": false,
-          "graphicOverview": false,
-	      "graphic": false
-        },
+        "entityReference": false,
         "attribute": {
           "name": {},
           "dataType": {},
@@ -374,41 +332,7 @@
           },
           "valueRange": {},
           "timePeriod": false,
-          "attributeReference": {
-            "basicInformation": {
-	          "alternateTitle": false,
-	          "presentationForm": false,
-	          "dates": {
-                "dateItem": {
-                "description": false
-                }
-		      }
-	        },
-            "presentationForm": {},
-            "responsibleParty": {},
-            "onlineResource": {
-	          "protocol": false,
-              "description": {},
-              "applicationProfile": false,
-              "protocolRequest": false
-            },
-            "identifier": false,
-            "identifierSimple": {
-              "visible": true,
-              "authority": false,
-              "version": false,
-              "description": false
-            },
-            "identifierShort": false,
-            "series": {
-              "name": {},
-              "issue": {},
-              "page": {}
-            },
-            "otherCitationDetails": false,
-            "graphicOverview": false,
-	        "graphic": false
-          }
+          "attributeReference": false
         },
         "citation": {
           "onlineResource": {
@@ -447,11 +371,7 @@
                 "description": false
               },
               "identifierShort": false,
-	          "series": {
-                "name": {},
-                "issue": {},
-                "page": {}
-              },
+	          "series": false,
               "otherCitationDetails": false,
               "graphicOverview": false,
 	          "graphic": false
@@ -488,11 +408,7 @@
 	        "description": false
 	      },
           "identifierShort": false,
-          "series": {
-            "name": {},
-            "issue": {},
-            "page": {}
-            },
+          "series": false,
           "otherCitationDetails": false,
           "graphic": false
         },
