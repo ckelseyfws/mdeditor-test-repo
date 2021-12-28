@@ -1,9 +1,9 @@
 {
 	"$schema": "http://json-schema.org/draft-07/schema#",
-	"title": "Schema",
+	"title": "AK Product Schema",
 	"description": "Required fields and terms for metadata written for USFWS Alaska Region data products.",
 	"$id": "fes-product-schema.json",
-	"version": "2.2.0",
+	"version": "1.0.0",
 	"properties": {
 		"metadata": {
 			"$ref": "#/definitions/Metadata"
