@@ -1,12 +1,12 @@
 {
-	"identifier": "ak-nwrs-proj-test",
+	"identifier": "ak-nwrs-proj",
 	"namespace": "gov.fws.profile",
 	"alternateId": [
 		"ak-nwrs-proj"
 	],
-	"title": "AK Refuges Project",
+	"title": "AK Refuge Project",
 	"description": "Metadata record pertaining to a project within the Alaska National Wildlife Refuge System.",
-	"version": "0.0.2",
+	"version": "1.0.0",
 	"components": {
 		"record": {
 			"main": {
@@ -31,7 +31,7 @@
 						"applicationProfile": false,
 						"protocolRequest": false
 					},
-					"identifier": false,
+					"identifier": true,
 					"otherCitationDetails": false,
 					"graphic": false
 				},
