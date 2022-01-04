@@ -41,10 +41,9 @@
 					"graphic": false
 				},
 				"description": {
-					"shortAbstract": false,
-					"purpose": false
+					"shortAbstract": false
 				},
-				"purpose": true,
+				"purpose": false,
 				"supplementalInfo": false,
 				"environmentDescription": false,
 				"timePeriod": {
@@ -98,11 +97,13 @@
 				}
 			},
 			"associated": {
+				"initiativeType": false,
 				"resourceCitation": {
 					"basicInformation": {
 						"alternateTitle": false,
 						"edition": false,
-						"presentationForm": false
+						"presentationForm": false,
+						"dates": false
 					},
 					"onlineResource": false,
 					"identifierSimple": false,
@@ -110,7 +111,8 @@
 					"otherCitationDetails": false,
 					"graphic": false
 				},
-				"metadataCitation": false
+				"metadataCitation": false,
+				"responsibleParty": false
 			},
 			"constraints": {
 				"security": false,
