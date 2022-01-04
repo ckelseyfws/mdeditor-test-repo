@@ -34,8 +34,7 @@
 					"identifier": false,
 					"identifierShort": {
 						"version": false,
-						"description": false,
-						"authority": false
+						"description": false
 					},
 					"series": false,
 					"otherCitationDetails": false,
