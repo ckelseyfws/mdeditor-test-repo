@@ -105,14 +105,14 @@
 						"presentationForm": false,
 						"dates": false
 					},
+					"responsibleParty": false,
 					"onlineResource": false,
 					"identifierSimple": false,
 					"series": false,
 					"otherCitationDetails": false,
 					"graphic": false
 				},
-				"metadataCitation": false,
-				"responsibleParty": false
+				"metadataCitation": false
 			},
 			"constraints": {
 				"security": false,
