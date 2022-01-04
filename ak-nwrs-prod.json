@@ -31,7 +31,13 @@
 						"applicationProfile": false,
 						"protocolRequest": false
 					},
-					"identifier": true,
+					"identifier": false,
+					"identifierShort": {
+						"version": false,
+						"description": false,
+						"authority": false
+					},
+					"series": false,
 					"otherCitationDetails": false,
 					"graphic": false
 				},
